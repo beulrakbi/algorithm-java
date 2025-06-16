@@ -1,0 +1,14 @@
+package maxMin;
+
+public class SelectMethodMin1 {
+    static int min(int a, int b, int c) {
+        int min = a;
+        if(b<min){
+            min = b;
+        }
+        if(c<min){
+            min = c;
+        }
+        return min;
+    }
+}
