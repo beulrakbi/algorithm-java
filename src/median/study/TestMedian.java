@@ -1,8 +1,8 @@
-package median;
+package median.study;
 
 import java.util.Scanner;
 
-import static median.Median.med3;
+import static median.study.Median.med3;
 
 public class TestMedian {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package median;
+package median.study;
 
 public class Median {
     static int med3(int a, int b, int c) {
